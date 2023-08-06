@@ -71,7 +71,7 @@ Mambaforge was a further modified version of Miniforge which included the 2 pack
 
 It is recommended to use Miniconda or Anaconda with a .condarc set to use the community channel and the conda-libmamba-solver.
 
-## pip, conda and mamba
+## pip and conda
 
 pip and conda package managers use similar syntax to install a package:
 
