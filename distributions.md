@@ -51,9 +51,9 @@ The conda package managers solver was rewritten and the conda-libmamba-solver re
 
 The Miniconda from Anaconda.com is a Python Distribution that includes:
 
-Python
-The Python standard libraries
-conda package manager (never use pip)
+* Python
+* The Python standard libraries
+* conda package manager (never use pip)
 
 Having a busy base Python environment isn't necessarily desired when only using the conda package manager to create custom Python environments and the reason for this bootstrap version. 
 
